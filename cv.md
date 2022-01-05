@@ -18,3 +18,24 @@ Playing around with JS since 2017. Started when was in college by creating simpl
 Done some work for local web studio, worked with SQL, PHP, JS, CSS, ElectronJS.
 
 Still learning, right now interested in 3d graphics on the web, planning to learn ThreeJS and Blender.
+
+---
+
+## Skills
+
+- HTML, SASS, JS
+- React, Redux,
+- Git, Github
+- SQL, MongoDB
+- VSCode, WSL2
+- RegEx
+- Photoshop, Figma
+- Familiar with:
+  - BEM
+  - Gsap
+  - Redux-thunk, Redux-Saga, styled-components
+  - Webpack, Parcel
+  - TypeScript
+  - VueJS
+  - ElectronJS
+  - Big O, Data Structures, Algorithms
