@@ -9,20 +9,27 @@
       href="./assets/img/favicon.ico"
       type="image/x-icon"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link rel="stylesheet" href="style.css" />
     <title>CV</title>
   </head>
   <body>
-    <header>
-      <nav>
-        <ul>
-          <li><a href="#contacts">Contacts</a></li>
-          <li><a href="#about-me">About me</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#code-example">Code</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#education">Education</a></li>
-          <li><a href="#english">English</a></li>
+    <header class="header">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li><a class="nav-link" href="#contacts">Contacts</a></li>
+          <li><a class="nav-link" href="#about-me">About me</a></li>
+          <li><a class="nav-link" href="#skills">Skills</a></li>
+          <li><a class="nav-link" href="#code-example">Code</a></li>
+          <li><a class="nav-link" href="#projects">Projects</a></li>
+          <li><a class="nav-link" href="#education">Education</a></li>
+          <li><a class="nav-link" href="#english">English</a></li>
         </ul>
       </nav>
     </header>
@@ -36,23 +43,23 @@
         <h2>Contacts</h2>
         <ul>
           <li>
-            <b>Telegram:</b>
+            <i class="fab fa-telegram"></i>
             <a href="https://t.me/shapilov_dev" target="_blank"
               >@shapilov_dev</a
             >
           </li>
           <li>
-            <b>Github:</b>
+            <i class="fab fa-github"></i>
             <a href="https://github.com/DanilShapilov" target="_blank"
               >DanilShapilov</a
             >
           </li>
           <li>
-            <b>Email:</b>
+            <i class="fas fa-envelope"></i>
             <a href="mailto:danil@shapilov.dev">danil@shapilov.dev</a>
           </li>
           <li>
-            <b>Discord:</b>
+            <i class="fab fa-discord"></i>
             <a
               href="https://discordapp.com/users/398435337279373312"
               target="_blank"
@@ -60,6 +67,7 @@
             >
           </li>
           <li>
+            <i class="fab fa-linkedin"></i>
             <a href="https://www.linkedin.com/in/danilshapilov/" target="_blank"
               >Linkedin</a
             >
@@ -304,6 +312,25 @@ const findLatestWeight = function (weights) {
         </ul>
       </section>
     </main>
-    <footer></footer>
+    <footer>
+      <div class="container">
+        <ul>
+          <li>
+            <i class="fab fa-github"></i>
+            <a href="https://github.com/DanilShapilov" target="_blank"
+              >DanilShapilov</a
+            >
+          </li>
+          <li>2022</li>
+          <li>
+            <a href="https://rs.school/js/" target="_blank"
+              ><img
+                src="https://rs.school/images/rs_school_js.svg"
+                alt="rss logo"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </body>
 </html>
