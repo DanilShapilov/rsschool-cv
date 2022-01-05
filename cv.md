@@ -106,3 +106,26 @@ const findLatestWeight = function (weights) {
   } while (true);
 }
 ```
+
+---
+
+## Experience:
+
+1. [SliderPlugin](https://github.com/DanilShapilov/sliderPlugin) - Plugin for jQuery written in TS (not refactored, first attempt) was trying to use MVP pattern.
+1. [Yelp-Camp](https://github.com/DanilShapilov/YelpCamp) - A website to create, find and rate campgrounds.
+   - Express
+   - mongoose, mongodb
+   - mapbox
+   - Bootstrap 5
+   - Cloudinary
+   - Helmet JS
+1. [crwn-clothing](https://github.com/DanilShapilov/crwn-clothing) - Clothes store website.
+
+   - React, Redux, Saga
+   - styled-components
+   - Firebase
+   - Stripe
+
+1. [Todo App](https://github.com/DanilShapilov/todo-app) - Test task for vacancy
+   - React, Redux
+   - styled-components
