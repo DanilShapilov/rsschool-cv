@@ -143,3 +143,18 @@ const findLatestWeight = function (weights) {
 - 2020 - [Html Academy](https://htmlacademy.ru/profile/id1339799)
 
 - 2018 - ГАПОУ СМПК (college) specialty: applied informatics (in design)
+
+---
+
+## English A2 or B1:
+
+### What I usually do in english:
+
+- Watch YouTube
+- Google
+- Read
+
+### Certificates:
+
+1. somehow on first try managed to get C1 according to [EF SET Certificate](https://www.efset.org/cert/ry2y9R)
+1. EPAM english test on training.ru - A2
