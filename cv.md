@@ -129,3 +129,17 @@ const findLatestWeight = function (weights) {
 1. [Todo App](https://github.com/DanilShapilov/todo-app) - Test task for vacancy
    - React, Redux
    - styled-components
+
+---
+
+## Education:
+
+- October 4, 2021 - [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/certificate/UC-278e5086-4d59-4684-a2c9-e21d9f41aa68/?hhtmFrom=resume)
+
+- August 24, 2021 - [The Web Developer Bootcamp 2021](https://www.udemy.com/certificate/UC-a04a954e-56a4-442e-8d2c-0da1d5c5447b/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email&hhtmFrom=resume)
+
+- November 6, 2020 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/danilshapilov/javascript-algorithms-and-data-structures?hhtmFrom=resume)
+
+- 2020 - [Html Academy](https://htmlacademy.ru/profile/id1339799)
+
+- 2018 - ГАПОУ СМПК (college) specialty: applied informatics (in design)
